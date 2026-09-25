@@ -33,10 +33,10 @@ The code separates reusable browser utilities into `BasePage`, login behavior in
 
 ## How to Run
 
-**Python file:** `pom.py`
+**Python file:** `pomtest.py`
 
 ```bash
-python pom.py
+python pomtest.py
 ```
 
 ## Source Code

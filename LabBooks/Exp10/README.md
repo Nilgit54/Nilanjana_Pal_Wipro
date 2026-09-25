@@ -33,10 +33,10 @@ The script creates a `unittest.TestCase` class. `setUp()` opens and configures C
 
 ## How to Run
 
-**Python file:** `unittest_intro.py`
+**Python file:** `unittestintro.py`
 
 ```bash
-python unittest_intro.py
+python unittestintro.py
 ```
 
 ## Source Code

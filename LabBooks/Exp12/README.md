@@ -34,10 +34,10 @@ The login workflow is tested using JSON, CSV and Excel data. The program creates
 
 ## How to Run
 
-**Python file:** `unittest_data_driven.py`
+**Python file:** `datadrivenunittest.py`
 
 ```bash
-python unittest_data_driven.py
+python datadrivenunittest.py
 ```
 
 ### Generated Files

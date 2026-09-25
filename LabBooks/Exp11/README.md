@@ -33,10 +33,10 @@ Two unittest classes demonstrate assertion methods and login validation. The pro
 
 ## How to Run
 
-**Python file:** `unittest_asserts_suite.py`
+**Python file:** `unittestasserts.py`
 
 ```bash
-python unittest_asserts_suite.py
+python unittestasserts.py
 ```
 
 ## Source Code
