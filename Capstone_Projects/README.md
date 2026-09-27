@@ -73,3 +73,5 @@ To inspect the test results and execution summary, simply open the generated HTM
 * **Dynamic Data Generation:** Generates multi-format test data files (`.json` and `.xlsx`) using `create_test_data.py`.
 * **Automated HTML Reporting:** Automatically outputs `execution_report.html` directly from the main test run.
 * **Visual Audit Logs:** Captures screenshots in the `screenshots/` folder throughout the test lifecycle.
+
+[Watch Demo Video](https://drive.google.com/file/d/15QL-lVAlaBHaDs8s9c9VAfh9EZ7azlX4/view?usp=sharing)
