@@ -10,7 +10,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait, Select
 from selenium.common.exceptions import NoAlertPresentException, ElementClickInterceptedException
 
-from Capstone_Projects.report_generator import generate_html_report
+from report_generator import generate_html_report
 
 
 def section(title):
